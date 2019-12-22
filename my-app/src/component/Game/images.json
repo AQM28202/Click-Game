@@ -1,0 +1,53 @@
+{
+    "images": [
+        {
+            "src": "/images/knight.jpg",
+            "clicked": false
+        },
+        {
+            "src": "/images/hk.png",
+            "clicked": false 
+        },
+        {
+            "src": "/images/soul.jpg",
+            "clicked": false
+        },
+        {
+            "src": "/images/tiso.png",
+            "clicked": false 
+        },
+        {
+            "src": "/images/grim.jpeg",
+            "clicked": false
+        },
+        {
+            "src": "/images/cloth.jpg",
+            "clicked": false 
+        },
+        {
+            "src": "/images/cornifer.jpg",
+            "clicked": false
+        },
+        {
+            "src": "/images/false.jpg",
+            "clicked": false 
+        },
+        {
+            "src": "/images/hornet.jpg",
+            "clicked": false
+        },
+        {
+            "src": "/images/quirrel.jpg",
+            "clicked": false 
+        },
+        {
+            "src": "/images/radiance.jpg",
+            "clicked": false
+        },
+        {
+            "src": "/images/zote.jpg",
+            "clicked": false 
+        }
+
+    ]
+}
