@@ -2,7 +2,7 @@ import React from 'react';
 import Board from '../board/board';
 import Header from '../Header/Header'
 import Images from './images.json';
-import Hero from '../Hero/Hero';
+import Jumbotron from '../Jumbotron/Jumbotron';
 
 class Game extends React.Component {
 
@@ -53,7 +53,6 @@ class Game extends React.Component {
         let tempValue;
         let randomIndex;
 
-        //FIsher-Yates Shuffle algorithm
         while (0 !== currentIndex) {
 
             randomIndex = Math.floor(Math.random() * currentIndex);
@@ -67,7 +66,6 @@ class Game extends React.Component {
         this.setState({
             images: shuffledImages
         });
-        // -----
     }
 
     resetBoard() {
@@ -100,10 +98,10 @@ class Game extends React.Component {
                     lost={this.state.lost}
                     messageFunc={this.chooseMessage}
                 />
-                <Hero>
+                <Jumbotron>
                     <h1>Clicky Game!</h1>
                     <h2>Click on an image to earn points, but don't click on any more than once!</h2>
-                </Hero>
+                </Jumbotron>
                 <div className="container">
                     <Board
                         images={this.state.images}

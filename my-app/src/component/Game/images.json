@@ -1,51 +1,51 @@
 {
     "images": [
         {
-            "src": "/images/knight.jpg",
+            "src": "/images/barack.jpg",
             "clicked": false
         },
         {
-            "src": "/images/hk.png",
+            "src": "/images/bernie.jpg",
             "clicked": false 
         },
         {
-            "src": "/images/soul.jpg",
+            "src": "/images/biden.jpg",
             "clicked": false
         },
         {
-            "src": "/images/tiso.png",
+            "src": "/images/bill.jpg",
             "clicked": false 
         },
         {
-            "src": "/images/grim.jpeg",
+            "src": "/images/bush.jpg",
             "clicked": false
         },
         {
-            "src": "/images/cloth.jpg",
+            "src": "/images/harris.jpg",
             "clicked": false 
         },
         {
-            "src": "/images/cornifer.jpg",
+            "src": "/images/hillary.jpg",
             "clicked": false
         },
         {
-            "src": "/images/false.jpg",
+            "src": "/images/maxine.jpg",
             "clicked": false 
         },
         {
-            "src": "/images/hornet.jpg",
+            "src": "/images/michelle.jpg",
             "clicked": false
         },
         {
-            "src": "/images/quirrel.jpg",
+            "src": "/images/nancy.jpg",
             "clicked": false 
         },
         {
-            "src": "/images/radiance.jpg",
+            "src": "/images/pence.jpg",
             "clicked": false
         },
         {
-            "src": "/images/zote.jpg",
+            "src": "/images/trump.jpg",
             "clicked": false 
         }
 
