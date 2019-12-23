@@ -1,6 +1,6 @@
 .nav {
     height: 75px;
-    background-color: rgb(175, 212, 201);
+    background-color:red;
 }
 
 .nav li {
@@ -21,12 +21,12 @@
 }
 
 .message.wrong {
-    color: red;
+    color: white;
     animation: pulse .57s 1;
 }
 
 .message.right {
-    color: green;
+    color: black;
     animation: pulse .57s 1;
 }
 

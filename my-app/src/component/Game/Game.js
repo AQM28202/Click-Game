@@ -93,7 +93,7 @@ class Game extends React.Component {
 
         return (
             <div style={{ minHeight: "100%", paddingBottom: "100px" }} >
-                {/* Need to figure out how to have different content only on initial page load */}
+                {}
                 <Header
                     currentScore={this.state.currentScore}
                     highScore={this.state.highScore}
@@ -101,8 +101,8 @@ class Game extends React.Component {
                     messageFunc={this.chooseMessage}
                 />
                 <Hero>
-                    <h1>Clicker Game!</h1>
-                    <h2>Click on an image to get points, but don't click on the same one twice!</h2>
+                    <h1>Clicky Game!</h1>
+                    <h2>Click on an image to earn points, but don't click on any more than once!</h2>
                 </Hero>
                 <div className="container">
                     <Board

@@ -1,11 +1,11 @@
 .hero {
+    background-image:"/public/images/flag.jpg";
     height: 400px;
-    background: gray;
+    background: blue;
     position: relative;
 }
 
 
-/* Everything inside of the hero goes on top of the filter layer */
 .hero * {
     position: relative;
     z-index: 2;
